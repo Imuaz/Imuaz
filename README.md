@@ -125,7 +125,7 @@ I design and build backend systems that are **secure, scalable, and production-r
 **Tech:** FastAPI, PostgreSQL, Microservices
 
 - Contributed to backend systems for AI chat and community features  
-- Worked on tasks, milestones, and resource management APIs  
+- Worked on admin, tasks, and child profile management APIs  
 - Assisted with backend architecture, authentication, and data flow  
 
 ---
