@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muazu Idris Yakub
+# 👋 Hi, I'm Muazu Y. Idris
 
 **Backend Engineer** specializing in **APIs, microservices, distributed systems, and cloud-native backend architectures**.
 
