@@ -143,8 +143,6 @@ I design and build backend systems that are **secure, scalable, and production-r
 
 ## 📊 GitHub Stats
 
-> Replace `YOUR_GITHUB_USERNAME` below 👇
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imuaz&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imuaz&layout=compact&theme=tokyonight)
 
@@ -153,7 +151,7 @@ I design and build backend systems that are **secure, scalable, and production-r
 ## 📫 Contact & Opportunities
 
 - 💼 Open to **Backend Engineer** roles  
-- 📧 Email: your.email@example.com  
+- 📧 Email: imuaz.skylinetech@gmail.com
 - 💬 Always happy to discuss backend architecture, APIs, and system design  
 
 ---
