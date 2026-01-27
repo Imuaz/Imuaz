@@ -70,7 +70,7 @@ I specialize in **API development, authentication systems, background processing
 - Redis caching, retries, DLQ, and observability  
 - Push notifications via FCM  
 
-🔗 *Repository link*
+🔗 ([Repo](https://github.com/HNG-NINJAS/stage-4-hng))
 
 ---
 
@@ -80,7 +80,8 @@ I specialize in **API development, authentication systems, background processing
 - API key management and permissions  
 - Secure Paystack webhook handling  
 
-🔗 *Repository link*
+🔗 ([Repo](https://github.com/Imuaz/hng-be-s8))
+
 
 ---
 
@@ -90,7 +91,7 @@ I specialize in **API development, authentication systems, background processing
 - API key lifecycle management  
 - 100% test coverage  
 
-🔗 *Repository link*
+🔗 ([Repo](https://github.com/Imuaz/hng-be-s7))
 
 ---
 
@@ -114,8 +115,8 @@ I specialize in **API development, authentication systems, background processing
 ## 🌐 Connect With Me
 
 - 💼 Open to Backend Engineer opportunities  
-- 📧 Email: imuaz.skylinetech@gmail.com  
-- 🔗 LinkedIn: *add link here*  
+- 📧 Email: imuazyakub@gmail.com 
+- 🔗 LinkedIn: [Muazu Idris](https://www.linkedin.com/in/imuaz/)
 
 ---
 
