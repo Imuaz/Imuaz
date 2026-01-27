@@ -70,7 +70,7 @@ I design and build backend systems that are **secure, scalable, and production-r
 ![Redis](https://img.shields.io/badge/Redis-red?logo=redis)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 
-[![Repository](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/HNG-NINJAS/stage-4-hng)
+[![Repository](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/HNG-NINJAS/notification-microservices)
 
 - Event-driven microservices for notification delivery  
 - Multi-language template rendering with version control  
@@ -85,7 +85,7 @@ I design and build backend systems that are **secure, scalable, and production-r
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
 ![Paystack](https://img.shields.io/badge/Paystack-Payments-green)
 
-[![Repository](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/Imuaz/hng-be-s8)
+[![Repository](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/Imuaz/wallet-service)
 
 - Dual authentication: Google OAuth 2.0 + JWT  
 - API key management with permission-based access and expiry  
@@ -99,7 +99,7 @@ I design and build backend systems that are **secure, scalable, and production-r
 ![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi)
 ![Pytest](https://img.shields.io/badge/Pytest-Testing-blue?logo=pytest)
 
-[![Repository](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/Imuaz/hng-be-s7)
+[![Repository](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/Imuaz/auth-api-key-service)
 
 - JWT-based user authentication system  
 - Service-to-service API key authentication  
