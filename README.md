@@ -1,143 +1,106 @@
 # 👋 Hi, I'm Muazu Y. Idris
 
-**Backend Engineer** specializing in **APIs, microservices, distributed systems, and cloud-native backend architectures**.
+**Backend Engineer** focused on building **secure, scalable, and production-ready backend systems**.
 
-I design and build backend systems that are **secure, scalable, and production-ready**, with a strong focus on **clean architecture, reliability, and real-world backend engineering**.
+I specialize in **API development, authentication systems, background processing, and cloud-native architectures**, with hands-on experience delivering real-world backend solutions.
 
 ---
 
-## 🚀 About Me
+## 🚀 Introduction
 
-- Backend-focused Software Engineer with hands-on production experience
-- Strong focus on **API design, authentication, async processing, and system reliability**
-- Experience building **monoliths and microservice-based systems**
-- Comfortable with **message queues, caching, background workers, and third-party integrations**
-- Passionate about **clean code, testing, and backend best practices**
-- Actively deepening knowledge in **distributed systems and large-scale backend architecture**
+- Backend-focused Software Engineer with strong interest in **distributed systems**
+- Experienced in designing **REST APIs, microservices, and scalable monoliths**
+- Passionate about **clean architecture, reliability, and backend best practices**
 - Backend Engineer at **HNG Internship**
+- Actively building backend projects suitable for **production environments**
 
 ---
 
-## 🛠️ Tech Stack (Backend-Focused)
+## 🛠️ Skills & Tech Stack
 
 ### 🧠 Languages
-- **Python**
-- **JavaScript (Intermediate)**
-- **SQL**
+- Python
+- JavaScript
+- SQL
 
 ### ⚙️ Backend Frameworks
-- FastAPI  
-- Django REST Framework  
-- Express.js (Working knowledge)
+- FastAPI
+- Django REST Framework
+- Express.js
 
 ### 🔐 Authentication & Security
-- JWT-based authentication  
-- Google OAuth 2.0  
-- API Key–based authentication (service-to-service)  
-- Password hashing (bcrypt)  
-- Webhook signature verification (HMAC)
+- JWT authentication
+- Google OAuth 2.0
+- API Key–based access
+- Password hashing (bcrypt)
+- Secure webhook verification (HMAC)
 
-### 🗄️ Databases
-- PostgreSQL (Neon)  
-- Redis (Caching, rate limiting)  
+### 🗄️ Databases & Caching
+- PostgreSQL
+- Redis
 
 ### 🚀 Background Jobs & Messaging
-- RabbitMQ (Queues, DLQ, async consumers)  
-- Celery  
-- Redis-based workers  
-- Scheduled & asynchronous tasks  
+- RabbitMQ
+- Celery
+- Redis workers
+- Asynchronous & scheduled tasks
 
 ### ☁️ DevOps & Cloud
-- Docker & Docker Compose  
-- Cloud deployments (Railway, Render)  
-- CI/CD with GitHub Actions  
-- Prometheus metrics & health checks  
-- Webhooks & third-party integrations (Payments, Notifications, AI)
+- Docker & Docker Compose
+- GitHub Actions (CI/CD)
+- Cloud deployments (Render, Railway)
+- Prometheus metrics & health checks
+- Third-party integrations (Payments, Notifications, AI)
 
 ### 🧪 Engineering Practices
-- RESTful API design  
-- Event-driven architecture  
-- Microservices design patterns  
-- Clean Architecture & modular codebases  
-- Testing with Pytest (including 100% coverage projects)  
-- Error handling, retries & fault tolerance  
+- RESTful API design
+- Event-driven architecture
+- Microservices patterns
+- Clean Architecture
+- Automated testing with Pytest
+- Error handling, retries & fault tolerance
 
 ---
 
-## 📌 Featured Backend Projects
+## 📌 Featured Projects
 
 ### 🔔 Microservices Notification System
-**Template Service + Push Service**  
-**Tech:** FastAPI, PostgreSQL, Redis, RabbitMQ, Docker, Prometheus
+**Tech:** FastAPI, PostgreSQL, Redis, RabbitMQ, Docker  
+- Event-driven notification microservices  
+- Redis caching, retries, DLQ, and observability  
+- Push notifications via FCM  
 
-- Built event-driven microservices for notification delivery  
-- Multi-language template rendering with Jinja2 and version control  
-- Redis caching, retries, circuit breakers, and dead-letter queues  
-- Push notification delivery via Firebase Cloud Messaging (FCM)  
-- Health checks, metrics, and production-ready observability  
+🔗 *Repository link*
 
 ---
 
-### 💳 Wallet & Payment Service (Paystack)
-**Tech:** FastAPI, PostgreSQL, Paystack, JWT, API Keys
+### 💳 Wallet & Payment Service
+**Tech:** FastAPI, PostgreSQL, Paystack  
+- OAuth + JWT authentication  
+- API key management and permissions  
+- Secure Paystack webhook handling  
 
-- Dual authentication: Google OAuth 2.0 + JWT  
-- API key management with permission-based access and expiry  
-- Automatic wallet creation with unique wallet numbers  
-- Atomic wallet-to-wallet transfers with balance validation  
-- Secure Paystack webhook handling with signature verification and idempotency  
+🔗 *Repository link*
 
 ---
 
 ### 🔐 Authentication & API Key Service
-**Tech:** FastAPI, PostgreSQL, SQLAlchemy, Pytest
+**Tech:** FastAPI, PostgreSQL, Pytest  
+- JWT and service-to-service authentication  
+- API key lifecycle management  
+- 100% test coverage  
 
-- JWT-based user authentication system  
-- Service-to-service API key authentication  
-- Key creation, revocation, rotation, and expiration policies  
-- 100% test coverage with Pytest  
-- Fully documented OpenAPI / Swagger docs  
-
----
-
-### 🌍 MultiLingo Agent – AI Translation & String Analyzer
-**Tech:** FastAPI, PostgreSQL, deep-translator, langdetect, Telex.im
-
-- String analysis engine (hashing, palindrome detection, statistics)  
-- AI-powered translation to 25+ languages  
-- Language detection and natural language query support  
-- Conversational AI integration via Telex.im webhooks  
-- Translation history and combined analysis results  
+🔗 *Repository link*
 
 ---
 
-### 🌐 Country Currency & Exchange API
-**Tech:** Django REST Framework, PostgreSQL, External APIs
+## 🌱 Current Interests
 
-- Fetches and caches country and currency data  
-- GDP estimation logic and statistical summaries  
-- Filtering, sorting, and search by region, population, and currency  
-- Image-based summary generation with insights  
-
----
-
-### 🤱 Mum Mentor AI (Nora) — Backend Contributor
-**Tech:** FastAPI, PostgreSQL, Microservices
-
-- Contributed to backend systems for AI chat and community features  
-- Worked on admin, tasks, and child profile management APIs  
-- Assisted with backend architecture, authentication, and data flow  
-
----
-
-## 🧩 Architecture Interests
-
-- API-first backend design  
-- Event-driven & message-based systems  
-- Scalable monoliths vs microservices  
-- Background job processing  
-- Cloud-native backend architectures  
-- Fault tolerance, retries & graceful failure handling  
+- Distributed systems
+- Event-driven architectures
+- Background job processing
+- Cloud-native backend design
+- Fault-tolerant systems
 
 ---
 
@@ -148,12 +111,12 @@ I design and build backend systems that are **secure, scalable, and production-r
 
 ---
 
-## 📫 Contact & Opportunities
+## 🌐 Connect With Me
 
-- 💼 Open to **Backend Engineer** roles  
-- 📧 Email: imuaz.skylinetech@gmail.com
-- 💬 Always happy to discuss backend architecture, APIs, and system design  
+- 💼 Open to Backend Engineer opportunities  
+- 📧 Email: imuaz.skylinetech@gmail.com  
+- 🔗 LinkedIn: *add link here*  
 
 ---
 
-⭐️ *I build backend systems that power real products — not just demos.*
+⭐️ *Check out my pinned repositories below for real-world backend projects.*
