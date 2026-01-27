@@ -1,107 +1,123 @@
 # 👋 Hi, I'm Muazu Y. Idris
 
-**Backend Engineer** focused on building **secure, scalable, and production-ready backend systems**.
+![Backend Engineer](https://img.shields.io/badge/Backend-Engineer-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?logo=fastapi)
+![Python](https://img.shields.io/badge/Python-Primary-blue?logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-DevOps-blue?logo=docker)
 
-I specialize in **API development, authentication systems, background processing, and cloud-native architectures**, with hands-on experience delivering real-world backend solutions.
+**Backend Engineer** specializing in **APIs, microservices, distributed systems, and cloud-native backend architectures**.
+
+I design and build backend systems that are **secure, scalable, and production-ready**, with a strong focus on **clean architecture, reliability, and real-world backend engineering**.
 
 ---
 
-## 🚀 Introduction
+## 🚀 About Me
 
-- Backend-focused Software Engineer with strong interest in **distributed systems**
-- Experienced in designing **REST APIs, microservices, and scalable monoliths**
-- Passionate about **clean architecture, reliability, and backend best practices**
+- Backend-focused Software Engineer with hands-on production experience  
+- Strong focus on **API design, authentication, async processing, and system reliability**  
+- Experience building **monoliths and microservice-based systems**  
+- Comfortable with **message queues, caching, background workers, and third-party integrations**  
+- Passionate about **clean code, testing, and backend best practices**  
+- Actively deepening knowledge in **distributed systems and large-scale backend architecture**  
 - Backend Engineer at **HNG Internship**
-- Actively building backend projects suitable for **production environments**
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🛠️ Tech Stack (Backend-Focused)
 
 ### 🧠 Languages
-- Python
-- JavaScript
-- SQL
+- Python  
+- JavaScript (Intermediate)  
+- SQL  
 
 ### ⚙️ Backend Frameworks
-- FastAPI
-- Django REST Framework
-- Express.js
+- FastAPI  
+- Django REST Framework  
+- Express.js (Working knowledge)
 
 ### 🔐 Authentication & Security
-- JWT authentication
-- Google OAuth 2.0
-- API Key–based access
-- Password hashing (bcrypt)
-- Secure webhook verification (HMAC)
+- JWT-based authentication  
+- Google OAuth 2.0  
+- API Key–based authentication (service-to-service)  
+- Password hashing (bcrypt)  
+- Webhook signature verification (HMAC)
 
-### 🗄️ Databases & Caching
-- PostgreSQL
-- Redis
+### 🗄️ Databases
+- PostgreSQL  
+- Redis (Caching, rate limiting)
 
 ### 🚀 Background Jobs & Messaging
-- RabbitMQ
-- Celery
-- Redis workers
-- Asynchronous & scheduled tasks
+- RabbitMQ  
+- Celery  
+- Redis-based workers  
+- Scheduled & asynchronous tasks
 
 ### ☁️ DevOps & Cloud
-- Docker & Docker Compose
-- GitHub Actions (CI/CD)
-- Cloud deployments (Render, Railway)
-- Prometheus metrics & health checks
-- Third-party integrations (Payments, Notifications, AI)
-
-### 🧪 Engineering Practices
-- RESTful API design
-- Event-driven architecture
-- Microservices patterns
-- Clean Architecture
-- Automated testing with Pytest
-- Error handling, retries & fault tolerance
+- Docker & Docker Compose  
+- Cloud deployments (Railway, Render)  
+- CI/CD with GitHub Actions  
+- Prometheus metrics & health checks  
+- Webhooks & third-party integrations (Payments, Notifications, AI)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Backend Projects
 
-### 🔔 Microservices Notification System
-**Tech:** FastAPI, PostgreSQL, Redis, RabbitMQ, Docker  
-- Event-driven notification microservices  
-- Redis caching, retries, DLQ, and observability  
-- Push notifications via FCM  
+### 🔔 Microservices Notification System  
+![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-orange?logo=rabbitmq)
+![Redis](https://img.shields.io/badge/Redis-red?logo=redis)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 
-🔗 ([Repo](https://github.com/HNG-NINJAS/stage-4-hng))
+[![Repository](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/HNG-NINJAS/stage-4-hng)
 
----
-
-### 💳 Wallet & Payment Service
-**Tech:** FastAPI, PostgreSQL, Paystack  
-- OAuth + JWT authentication  
-- API key management and permissions  
-- Secure Paystack webhook handling  
-
-🔗 ([Repo](https://github.com/Imuaz/hng-be-s8))
-
+- Event-driven microservices for notification delivery  
+- Multi-language template rendering with version control  
+- Redis caching, retries, circuit breakers, and dead-letter queues  
+- Push notification delivery via Firebase Cloud Messaging (FCM)  
+- Health checks, metrics, and production-ready observability  
 
 ---
 
-### 🔐 Authentication & API Key Service
-**Tech:** FastAPI, PostgreSQL, Pytest  
-- JWT and service-to-service authentication  
-- API key lifecycle management  
-- 100% test coverage  
+### 💳 Wallet & Payment Service (Paystack)  
+![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![Paystack](https://img.shields.io/badge/Paystack-Payments-green)
 
-🔗 ([Repo](https://github.com/Imuaz/hng-be-s7))
+[![Repository](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/Imuaz/hng-be-s8)
+
+- Dual authentication: Google OAuth 2.0 + JWT  
+- API key management with permission-based access and expiry  
+- Automatic wallet creation with unique wallet numbers  
+- Atomic wallet-to-wallet transfers with balance validation  
+- Secure webhook handling with signature verification and idempotency  
 
 ---
 
-## 🌱 Current Interests
+### 🔐 Authentication & API Key Service  
+![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi)
+![Pytest](https://img.shields.io/badge/Pytest-Testing-blue?logo=pytest)
 
-- Distributed systems
-- Event-driven architectures
-- Background job processing
-- Cloud-native backend design
-- Fault-tolerant systems
+[![Repository](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/Imuaz/hng-be-s7)
+
+- JWT-based user authentication system  
+- Service-to-service API key authentication  
+- Key creation, revocation, rotation, and expiration policies  
+- 100% test coverage with Pytest  
+- Fully documented OpenAPI / Swagger docs  
+
+---
+
+### 🤱 Mum Mentor AI (Nora) — Backend Contributor  
+![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue)
+
+[![Repository](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/emerjent/nora-be)
+
+- Contributed to backend systems for AI chat and community features  
+- Worked on admin, tasks, and child profile management APIs  
+- Assisted with backend architecture, authentication, and data flow  
 
 ---
 
@@ -112,12 +128,13 @@ I specialize in **API development, authentication systems, background processing
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Contact & Opportunities
 
-- 💼 Open to Backend Engineer opportunities  
-- 📧 Email: imuazyakub@gmail.com 
-- 🔗 LinkedIn: [Muazu Idris](https://www.linkedin.com/in/imuaz/)
+- 💼 Open to **Backend Engineer / API Engineer** roles  
+- 📧 Email: imuazyakub@gmail.com
+- 💬 Always happy to discuss backend architecture, APIs, and system design  
 
 ---
 
-⭐️ *Check out my pinned repositories below for real-world backend projects.*
+⭐️ *I build backend systems that power real products — not just demos.*
+
