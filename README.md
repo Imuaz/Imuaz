@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Muazu Y. Idris
 
 ![Backend Engineer](https://img.shields.io/badge/Backend-Engineer-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?logo=fastapi)
 ![Python](https://img.shields.io/badge/Python-Primary-blue?logo=python)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?logo=postgresql)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-Framework-green?logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-blue?logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-DevOps-blue?logo=docker)
 
 **Backend Engineer** specializing in **APIs, microservices, distributed systems, and cloud-native backend architectures**.
