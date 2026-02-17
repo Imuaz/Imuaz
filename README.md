@@ -3,6 +3,7 @@
 ![Backend Engineer](https://img.shields.io/badge/Backend-Engineer-blue)
 ![Python](https://img.shields.io/badge/Python-Primary-blue?logo=python)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-Backend-green?logo=express)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Framework-green?logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-blue?logo=postgresql)
@@ -36,7 +37,7 @@ I design and build backend systems that are **secure, scalable, and production-r
 ### ⚙️ Backend Frameworks
 - FastAPI  
 - Django REST Framework  
-- Express.js (Working knowledge)
+- Express.js
 
 ### 🔐 Authentication & Security
 - JWT-based authentication  
